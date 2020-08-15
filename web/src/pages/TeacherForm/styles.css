@@ -22,11 +22,7 @@
   padding: 0 2.4rem;
 }
 
-<<<<<<< HEAD
 #page-teacher-form main fieldset + fieldset {
-=======
-#page-teacher-form main fieldset + fielset {
->>>>>>> b5fc084ac969468f3cc7c4f2544393d7bb8d18f7
   margin-top: 6.4rem;
 }
 
@@ -42,13 +38,10 @@
   border-bottom: 1px solid var(--color-line-in-white);
 }
 
-<<<<<<< HEAD
 #page-teacher-form main label {
   color: var(--color-text-complement);
 }
 
-=======
->>>>>>> b5fc084ac969468f3cc7c4f2544393d7bb8d18f7
 #page-teacher-form main footer {
   padding: 4rem 2.4rem;
   background: var(--color-box-footer);
@@ -90,7 +83,6 @@
   background: var(--color-secundary-dark);
 }
 
-<<<<<<< HEAD
 @media (min-width: 700px) {
   #page-teacher-form {
     max-width: 100vw;
@@ -120,6 +112,3 @@
     margin-top: 0;
   }
 }
-=======
-/* parou em 33:08min */
->>>>>>> b5fc084ac969468f3cc7c4f2544393d7bb8d18f7
